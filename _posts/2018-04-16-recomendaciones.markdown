@@ -7,11 +7,11 @@ permalink: /recomendaciones/
 isStaticPost: false
 ---
 
-Para que tu experiencia en GuanaHacks sea la mejor, te compartimos una serie de recomendaciones y consideraciones. 😎
+Para que tu experiencia en BeeHack sea la mejor, te compartimos una serie de recomendaciones y consideraciones. 😎
 
 ##### Registro:
 
-1. El registro comenzará desde las 09:00 a.m. y continuará hasta las 11:50 a.m. día del evento, deberás dirigirte a la zona de registro (*“Registro participantes”*) y mostrar una identificación, así como tu ticket de asistencia generado por *Eventbrite®* (no es necesario imprimirlo, lo puedes llevar en tu celular). Con ello podrás recibir tus acreditaciones (kit de bienvenida, gafetes y asignación de espacio para casa de campaña).
+1. El registro comenzará desde las 10:00 a.m. y continuará hasta las 11:50 a.m. día del evento, deberás dirigirte a la zona de registro (*“Registro participantes”*) y mostrar una identificación, así como tu ticket de asistencia generado por *Eventbrite®* (no es necesario imprimirlo, lo puedes llevar en tu celular, Link---> https://www.eventbrite.com/e/beehack-tickets-59806232050?aff=ebdssbdestsearch). Con ello podrás recibir tus acreditaciones (kit de bienvenida, gafetes y asignación de espacio para casa de campaña).
 
 2. En el caso de visitantes (día viernes 18) deberás acudir a la mesa correspondiente de registro (*“Registro visitantes”*) y mostrar una identificación, así como tu ticket de asistencia generado por *Eventbrite®* (no es necesario imprimirlo, lo puedes llevar en tu celular). Si aplicas para Unidades de Participación adicionalmente te pediremos que te anotes en una lista a la hora de regitro.
 
@@ -21,7 +21,7 @@ También te invitamos a que uses nuestra plataforma para crear equipos en [Crowd
 
 ##### Camping y espacios:
 
-1. GuanaHacks proporcionará un espacio para que pongas tu casa de campaña y alimentos a todo participante debidamente registrado. A tu llegada, durante el registro te será asignado tu camping compartido y el staff te guiará hasta él.
+1. BeeHack proporcionará un espacio para que pongas tu casa de campaña y alimentos a todo participante debidamente registrado. A tu llegada, durante el registro te será asignado tu camping compartido y el staff te guiará hasta él.
 
 2. La(s) casa(s) de campaña deberás de traerla(s) por tu cuenta y considerar que no ocupe más espacio del necesario para tu equipo.
 * Contaremos unas cuantas casas de campaña para las personas que no tengan pero la cantidad es limitada.
